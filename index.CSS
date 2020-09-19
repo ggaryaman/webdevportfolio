@@ -1,0 +1,38 @@
+.bgimg{
+    background-image: url(https://source.unsplash.com/0yL6nXhn0pI);
+height: 200px;
+background-position: center;
+background-size: cover;
+font-family: 'Hanalei', cursive;
+position: relative;
+font-size: 30px;
+}
+.pogo{
+    background-image: url(https://source.unsplash.com/PyHmVFgIuy8);
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    font-family: 'Ranchers', cursive;
+    position: relative;
+    font-size: 25px;
+}
+.ag{
+    background-image: url(https://source.unsplash.com/PyHmVFgIuy8);
+    height: 100%;
+}
+
+.middle{
+    text-align: center;
+    color: red;
+}
+.button{
+    background-color:whitesmoke
+    text-align: center;
+    color: black;
+    padding: 30px 30px;
+    border-radius: 10px;
+}
+.button:hover{
+    background-color:red ;
+    color: yellow;
+}
